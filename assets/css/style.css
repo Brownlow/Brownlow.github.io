@@ -43,7 +43,7 @@ header nav li a {
 	text-decoration: none;
 }
 
-header nav li a:last-child {
+header nav li:last-child a{
 	border-right:0;
 }
 
